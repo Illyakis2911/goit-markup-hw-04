@@ -421,6 +421,7 @@ img {
 
   color: var(--begraut-ccolor);
   font-family: Raleway, cursive;
+  font-style: normal;
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
@@ -435,6 +436,7 @@ img {
 .logo {
   color: var(--accent-color);
   font-family: "Raleway";
+  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.9;
