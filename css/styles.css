@@ -430,7 +430,6 @@ img {
 }
 .pocition {
   display: flex;
-  align-items: baseline;
 }
 
 .logo {
@@ -455,6 +454,9 @@ img {
   display: flex;
   flex-direction: column;
 }
+.footer-tetle {
+  margin-bottom: 9px;
+}
 
 .adres:hover,
 .adres:focus {
@@ -462,7 +464,7 @@ img {
 }
 .footer-social {
   margin-left: 70px;
-  margin-top: 72px;
+  margin-top: 25px;
 }
 
 .links-item {
@@ -470,7 +472,6 @@ img {
 }
 
 .footer-contacts {
-  padding-bottom: 9px;
   display: flex;
   color: rgb(255, 255, 255, 60%);
   font-style: normal;
@@ -505,6 +506,10 @@ img {
   display: flex;
   margin-bottom: 20px;
 }
+.footer-tetle {
+  display: block;
+  margin-bottom: 9px;
+}
 .footer-soc {
   width: 44px;
   height: 44px;
@@ -528,7 +533,7 @@ img {
 .footer-icon {
   display: flex;
   text-align: center;
-  fill: #afb1b8;
+  fill: #ffffff;
   padding: auto;
 }
 
